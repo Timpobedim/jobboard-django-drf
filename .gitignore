@@ -1,0 +1,19 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+db.sqlite3
+staticfiles/
+.pytest_cache/
+.ruff_cache/
+.coverage
+coverage.xml
+htmlcov/
+.idea/
+.vscode/
+
+# SG-11: служебное и персональное — не публикуется
+.omc/
+.claude/
+.mypy_cache/
